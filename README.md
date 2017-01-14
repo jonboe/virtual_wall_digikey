@@ -10,3 +10,4 @@ Hardware:
 Usage:
 1. Connect led 
 2. Program digispark
+3. Adjust loob of IR LED with e.g. a straw
