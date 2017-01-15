@@ -8,6 +8,8 @@ Hardware:
 * Current limiting resistor for LED
 * Connection wires
 
+![assembly](images/digispark_led.JPG)
+
 Software:
 
 1. Download [Arduino IDE](https://www.arduino.cc/en/Main/Software)
